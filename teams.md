@@ -227,15 +227,25 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
 
 ***
 
-# ALA
-### Trying to decide for the moment
+# ALAE
+### A kids game based on images
 * Teammates:
     - Alexandru Vranceanu (@valexander)
     - Alina Ivan (@apryllya)
-    - Leontin Stoea (@discordUserProfileName)
+    - Leontin Stoea (@stl30)
+    - Macesanu Elena (@macesanusimonaelena)
 * Seeking Teammates: No
 * [Project URL](https://github.com/stl30/ALA)
-* Project Name: coming soon
+* [Project Website](https://adoring-liskov-91aaef.netlify.com/)
+* Project Name: Drop it like is hot
+### Project Q&A:
+1. What are you going to build?  
+- A kids game based on images  
+2. Which APIs do you plan to use? (You can use any APIs, not just Hackathon sponsor APIs.)  
+- Clarifai - https://clarifai.com/developer/guide/
+- Hasura - https://docs.hasura.io/  
+3. What is your plan to execute this idea?  
+// your answer here  
 
 ***
 
