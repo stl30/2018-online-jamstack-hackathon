@@ -236,8 +236,8 @@ Copy the above code snippet in its entirety and add it to the BOTTOM of this doc
     - Macesanu Elena (@macesanusimonaelena)
 * Seeking Teammates: No
 * [Project URL](https://github.com/stl30/ALA)
-* [Project Website](https://adoring-liskov-91aaef.netlify.com/)
-* Project Name: Drop it like is hot
+* [Project Website](https://drop-it-like-its-hot.netlify.com/)
+* Project Name: Drop it like it\`s hot
 ### Project Q&A:
 1. What are you going to build?  
 - A kids game based on images  
